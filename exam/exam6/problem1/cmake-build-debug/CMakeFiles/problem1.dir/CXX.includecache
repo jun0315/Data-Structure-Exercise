@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/Data Structure Exercise/exam/exam6/problem1/Solution.cpp
+Solution.h
+H:/Data Structure Exercise/exam/exam6/problem1/Solution.h
+
+H:/Data Structure Exercise/exam/exam6/problem1/Solution.h
+iostream
+-
+Sort.h
+H:/Data Structure Exercise/exam/exam6/problem1/Sort.h
+string
+-
+
+H:/Data Structure Exercise/exam/exam6/problem1/Sort.cpp
+iostream
+H:/Data Structure Exercise/exam/exam6/problem1/iostream
+Sort.h
+H:/Data Structure Exercise/exam/exam6/problem1/Sort.h
+
+H:/Data Structure Exercise/exam/exam6/problem1/Sort.h
+
+H:/Data Structure Exercise/exam/exam6/problem1/main.cpp
+iostream
+-
+Solution.h
+H:/Data Structure Exercise/exam/exam6/problem1/Solution.h
+

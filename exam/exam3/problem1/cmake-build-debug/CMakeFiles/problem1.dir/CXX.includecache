@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/Data Structure Exercise/exam/exam3/problem1/TNode.h
+iostream
+-
+
+H:/Data Structure Exercise/exam/exam3/problem1/main.cpp
+iostream
+-
+TNode.h
+H:/Data Structure Exercise/exam/exam3/problem1/TNode.h
+

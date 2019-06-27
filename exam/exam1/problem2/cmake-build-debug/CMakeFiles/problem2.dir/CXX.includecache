@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/Data Structure Exercise/exam/exam1/problem2/LinkListed.cpp
+LinkListed.h
+H:/Data Structure Exercise/exam/exam1/problem2/LinkListed.h
+
+H:/Data Structure Exercise/exam/exam1/problem2/LinkListed.h
+iostream
+H:/Data Structure Exercise/exam/exam1/problem2/iostream
+

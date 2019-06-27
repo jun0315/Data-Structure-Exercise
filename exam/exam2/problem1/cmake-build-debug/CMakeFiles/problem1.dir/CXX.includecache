@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/Data Structure Exercise/exam/exam2/problem1/MinStack.cpp
+_StackLisk_.h
+H:/Data Structure Exercise/exam/exam2/problem1/_StackLisk_.h
+MinStack.h
+H:/Data Structure Exercise/exam/exam2/problem1/MinStack.h
+
+H:/Data Structure Exercise/exam/exam2/problem1/MinStack.h
+_StackLisk_.h
+H:/Data Structure Exercise/exam/exam2/problem1/_StackLisk_.h
+
+H:/Data Structure Exercise/exam/exam2/problem1/_StackLisk_.cpp
+_StackLisk_.h
+H:/Data Structure Exercise/exam/exam2/problem1/_StackLisk_.h
+
+H:/Data Structure Exercise/exam/exam2/problem1/_StackLisk_.h
+iostream
+-
+malloc.h
+H:/Data Structure Exercise/exam/exam2/problem1/malloc.h
+
+H:/Data Structure Exercise/exam/exam2/problem1/main.cpp
+iostream
+-
+MinStack.h
+H:/Data Structure Exercise/exam/exam2/problem1/MinStack.h
+cstdio
+-
+

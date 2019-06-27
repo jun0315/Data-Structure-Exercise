@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/Data Structure Exercise/exam/exam5/problem2/BSTree.h
+iostream
+H:/Data Structure Exercise/exam/exam5/problem2/iostream
+vector
+-
+
+H:/Data Structure Exercise/exam/exam5/problem2/Solution.cpp
+Solution.h
+H:/Data Structure Exercise/exam/exam5/problem2/Solution.h
+
+H:/Data Structure Exercise/exam/exam5/problem2/Solution.h
+BSTree.h
+H:/Data Structure Exercise/exam/exam5/problem2/BSTree.h
+vector
+-
+iostream
+-
+
